@@ -193,7 +193,7 @@ if [ "$outputtype" == "Aonly" ]; then
 fi
 
 date=`date +%Y%m%d`
-outputname="$romtypename-$outputtype-$sourcever-$date-TechyMinatiGSI"
+outputname="$romtypename-$outputtype-$sourcever-$date-DipeshGSI"
 outputimagename="$outputname".img
 outputtextname="$outputname".txt
 if [ "$4" == "" ]; then
